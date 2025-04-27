@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-branchmaster
-=======
 content
->>>>>>> 1ee40502d5ea1247394d619a5c43f442749cf76e
-=======
-content changed again
->>>>>>> be9fd5e69fa4f9295ebb34b9aa2d9cafeabebfc5
