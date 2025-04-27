@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branchmaster
+=======
+content
+>>>>>>> 1ee40502d5ea1247394d619a5c43f442749cf76e
